@@ -43,12 +43,7 @@ El programa permite a los usuarios convertir un monto de una moneda base a una m
 
 ## Uso
 
-1. Ejecuta el programa:
-
-    ```bash
-    java -cp target/conversor-monedas-1.0-SNAPSHOT.jar com.alura.conversor.Principal
-    ```
-
+1. Ejecuta el programa
 2. Ingresa la moneda base y la moneda de destino cuando se te solicite.
 3. Ingresa el monto que deseas convertir.
 4. El programa mostrará el monto convertido en la moneda de destino.
